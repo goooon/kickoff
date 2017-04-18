@@ -60,5 +60,5 @@ func main() {
 	fmt.Println(getInt(3))
 	time.Sleep(1 * 1e9)
 	//utils.Main()
-	thrift.ClientMain("a", "b")
+	thrift.ClientMain("127.0.0.1", "8090")
 }

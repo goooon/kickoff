@@ -3,6 +3,7 @@
   <component name="GoLibraries">
     <option name="urls">
       <list>
+        <option value="file://$PROJECT_DIR$/../gopath" />
         <option value="file://$PROJECT_DIR$" />
       </list>
     </option>
